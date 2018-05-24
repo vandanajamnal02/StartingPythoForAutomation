@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2023d959-a79b-40bc-9b1d-d53e9581adfe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startingfirstTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingfirstTest" beforeDir="false" afterPath="$PROJECT_DIR$/startingMyFirstTestCase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,10 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BasicPage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="-9">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -26,7 +27,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="startingMyFirstTestCase.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/startingMyFirstTestCase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,14 +55,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BasicPage.py" />
+        <option value="$PROJECT_DIR$/startingMyFirstTestCase.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="428" />
-    <option name="y" value="287" />
+    <option name="x" value="892" />
+    <option name="y" value="17" />
     <option name="width" value="1135" />
-    <option name="height" value="1080" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -65,7 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in startingMyFirstTestCase.py">
     <configuration name="BasicPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="StartingPythoForAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,8 +119,26 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unittests in startingMyFirstTestCase.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="StartingPythoForAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/startingMyFirstTestCase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.BasicPage" />
+      <item itemvalue="Python tests.Unittests in startingMyFirstTestCase.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in startingMyFirstTestCase.py" />
         <item itemvalue="Python.BasicPage" />
       </list>
     </recent_temporary>
@@ -107,14 +146,25 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_startingMyFirstTestCase_py - 2018.05.24 at 17h 34m 14s.xml">
+      <configuration name="Unittests in startingMyFirstTestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_startingMyFirstTestCase_py - 2018.05.24 at 17h 34m 40s.xml">
+      <configuration name="Unittests in startingMyFirstTestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_startingMyFirstTestCase_py - 2018.05.24 at 17h 37m 08s.xml">
+      <configuration name="Unittests in startingMyFirstTestCase.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="714" y="14" width="908" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19006622" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.323219" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34228188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.012672811" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3854489" />
+      <window_info anchor="bottom" id="Python Console" weight="0.323219" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34210527" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -127,16 +177,66 @@
       <window_info anchor="bottom" id="TODO" order="6" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicPage.py</url>
+          <line>1</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/startingfirstTest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BasicPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="-9">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startingMyFirstTestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
